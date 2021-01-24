@@ -1,0 +1,1208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car5 Name="4C" Combined="28" Manufacturer="ALFA ROMEO" />
+  <Car5 Name="V12 Vantage S" Combined="14" Manufacturer="Aston Martin Lagonda Ltd" />
+  <Car5 Name="V8 Vantage" Combined="16" Manufacturer="Aston Martin Lagonda Ltd" />
+  <Car5 Name="V8 Vantage" Combined="15" Manufacturer="Aston Martin Lagonda Ltd" />
+  <Car5 Name="V8 Vantage S" Combined="16" Manufacturer="Aston Martin Lagonda Ltd" />
+  <Car5 Name="V8 Vantage S" Combined="15" Manufacturer="Aston Martin Lagonda Ltd" />
+  <Car5 Name="Vantage GT" Combined="16" Manufacturer="Aston Martin Lagonda Ltd" />
+  <Car5 Name="Vantage GT" Combined="15" Manufacturer="Aston Martin Lagonda Ltd" />
+  <Car5 Name="TT Roadster quattro" Combined="26" Manufacturer="Audi" />
+  <Car5 Name="M4 GTS" Combined="19" Manufacturer="BMW" />
+  <Car5 Name="Z4 sDrive28i" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="Z4 sDrive28i" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="Z4 sDrive35i" Combined="20" Manufacturer="BMW" />
+  <Car5 Name="Z4 sDrive35is" Combined="20" Manufacturer="BMW" />
+  <Car5 Name="CORVETTE" Combined="16" Manufacturer="Chevrolet" />
+  <Car5 Name="CORVETTE" Combined="20" Manufacturer="Chevrolet" />
+  <Car5 Name="CORVETTE" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="CORVETTE" Combined="21" Manufacturer="Chevrolet" />
+  <Car5 Name="Viper SRT" Combined="15" Manufacturer="Dodge" />
+  <Car5 Name="488 GTB" Combined="18" Manufacturer="Ferrari" />
+  <Car5 Name="488 GTB" Combined="18" Manufacturer="Ferrari" />
+  <Car5 Name="F12" Combined="13" Manufacturer="Ferrari" />
+  <Car5 Name="F12" Combined="13" Manufacturer="Ferrari" />
+  <Car5 Name="F12 tdf" Combined="13" Manufacturer="Ferrari" />
+  <Car5 Name="F12 tdf" Combined="12" Manufacturer="Ferrari" />
+  <Car5 Name="F60 America" Combined="13" Manufacturer="Ferrari" />
+  <Car5 Name="F60 America" Combined="13" Manufacturer="Ferrari" />
+  <Car5 Name="CR-Z" Combined="37" Manufacturer="Honda" />
+  <Car5 Name="CR-Z" Combined="34" Manufacturer="Honda" />
+  <Car5 Name="F-TYPE Convertible" Combined="22" Manufacturer="Jaguar" />
+  <Car5 Name="F-TYPE Convertible Manual" Combined="19" Manufacturer="Jaguar" />
+  <Car5 Name="F-TYPE Coupe" Combined="22" Manufacturer="Jaguar" />
+  <Car5 Name="F-TYPE Coupe Manual" Combined="19" Manufacturer="Jaguar" />
+  <Car5 Name="F-TYPE R AWD Convertible" Combined="18" Manufacturer="Jaguar" />
+  <Car5 Name="F-TYPE R AWD Coupe" Combined="18" Manufacturer="Jaguar" />
+  <Car5 Name="F-TYPE R Convertible" Combined="18" Manufacturer="Jaguar" />
+  <Car5 Name="F-TYPE S AWD Convertible" Combined="21" Manufacturer="Jaguar" />
+  <Car5 Name="F-TYPE S AWD Coupe" Combined="21" Manufacturer="Jaguar" />
+  <Car5 Name="F-TYPE S Convertible" Combined="22" Manufacturer="Jaguar" />
+  <Car5 Name="F-TYPE S Convertible Manual" Combined="18" Manufacturer="Jaguar" />
+  <Car5 Name="F-TYPE S Coupe" Combined="22" Manufacturer="Jaguar" />
+  <Car5 Name="F-TYPE S Coupe Manual" Combined="18" Manufacturer="Jaguar" />
+  <Car5 Name="Aventador Coupe" Combined="13" Manufacturer="Lamborghini" />
+  <Car5 Name="Aventador Roadster" Combined="12" Manufacturer="Lamborghini" />
+  <Car5 Name="Huracan" Combined="17" Manufacturer="Lamborghini" />
+  <Car5 Name="Huracan Spyder" Combined="16" Manufacturer="Lamborghini" />
+  <Car5 Name="MX-5" Combined="30" Manufacturer="MAZDA" />
+  <Car5 Name="MX-5" Combined="30" Manufacturer="MAZDA" />
+  <Car5 Name="570S Coupe" Combined="19" Manufacturer="McLaren" />
+  <Car5 Name="650S Coupe" Combined="18" Manufacturer="McLaren" />
+  <Car5 Name="650S Spider" Combined="18" Manufacturer="McLaren" />
+  <Car5 Name="675LT Coupe" Combined="18" Manufacturer="McLaren" />
+  <Car5 Name="AMG GT S" Combined="18" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG SL 63" Combined="19" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG SL 65" Combined="17" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG SLK 55" Combined="22" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="SL 400" Combined="23" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="SL 550" Combined="19" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="SLK 300" Combined="28" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="SLK 350" Combined="24" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="Smart fortwo (COUPE)" Combined="36" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="Smart fortwo (COUPE)" Combined="35" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="370Z" Combined="21" Manufacturer="NISSAN" />
+  <Car5 Name="370Z" Combined="21" Manufacturer="NISSAN" />
+  <Car5 Name="370Z Roadster" Combined="21" Manufacturer="NISSAN" />
+  <Car5 Name="370Z Roadster" Combined="20" Manufacturer="NISSAN" />
+  <Car5 Name="Huayra Coupe" Combined="13" Manufacturer="Pagani Automobili S.p.A." />
+  <Car5 Name="911 GT3" Combined="17" Manufacturer="Porsche" />
+  <Car5 Name="911 GT3RS" Combined="16" Manufacturer="Porsche" />
+  <Car5 Name="Boxster" Combined="26" Manufacturer="Porsche" />
+  <Car5 Name="Boxster" Combined="24" Manufacturer="Porsche" />
+  <Car5 Name="Boxster GTS" Combined="25" Manufacturer="Porsche" />
+  <Car5 Name="Boxster GTS" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="Boxster S" Combined="24" Manufacturer="Porsche" />
+  <Car5 Name="Boxster S" Combined="23" Manufacturer="Porsche" />
+  <Car5 Name="Boxster Spyder" Combined="20" Manufacturer="Porsche" />
+  <Car5 Name="Cayman" Combined="26" Manufacturer="Porsche" />
+  <Car5 Name="Cayman" Combined="24" Manufacturer="Porsche" />
+  <Car5 Name="Cayman GT4" Combined="20" Manufacturer="Porsche" />
+  <Car5 Name="Cayman GTS" Combined="25" Manufacturer="Porsche" />
+  <Car5 Name="Cayman GTS" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="Cayman S" Combined="24" Manufacturer="Porsche" />
+  <Car5 Name="Cayman S" Combined="23" Manufacturer="Porsche" />
+  <Car5 Name="DB9" Combined="15" Manufacturer="Aston Martin Lagonda Ltd" />
+  <Car5 Name="Vanquish" Combined="16" Manufacturer="Aston Martin Lagonda Ltd" />
+  <Car5 Name="California T" Combined="19" Manufacturer="Ferrari" />
+  <Car5 Name="California T" Combined="18" Manufacturer="Ferrari" />
+  <Car5 Name="500" Combined="27" Manufacturer="FIAT" />
+  <Car5 Name="500" Combined="30" Manufacturer="FIAT" />
+  <Car5 Name="500" Combined="30" Manufacturer="FIAT" />
+  <Car5 Name="500" Combined="34" Manufacturer="FIAT" />
+  <Car5 Name="500 Abarth" Combined="27" Manufacturer="FIAT" />
+  <Car5 Name="500 Abarth" Combined="30" Manufacturer="FIAT" />
+  <Car5 Name="Mini Cooper Convertible" Combined="31" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper Convertible" Combined="31" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Convertible" Combined="29" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Convertible" Combined="27" Manufacturer="Mini" />
+  <Car5 Name="911 Carrera" Combined="23" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera 4" Combined="23" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera 4" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera 4 Cabriolet" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera 4 Cabriolet" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera 4 GTS" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera 4 GTS" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera 4 GTS Cabriolet" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera 4 GTS Cabriolet" Combined="20" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera 4S" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera 4S" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera 4S Cabriolet" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera 4S Cabriolet" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera Cabriolet" Combined="23" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera Cabriolet" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera GTS" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera GTS" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera GTS Cabriolet" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera GTS Cabriolet" Combined="20" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera S" Combined="23" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera S" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera S Cabriolet" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="911 Carrera S Cabriolet" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="911 Targa 4" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="911 Targa 4" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Targa 4 GTS" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Targa 4 GTS" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Targa 4S" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Targa 4S" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="911 Turbo" Combined="20" Manufacturer="Porsche" />
+  <Car5 Name="911 Turbo Cabriolet" Combined="20" Manufacturer="Porsche" />
+  <Car5 Name="911 Turbo S" Combined="20" Manufacturer="Porsche" />
+  <Car5 Name="911 Turbo S Cabriolet" Combined="20" Manufacturer="Porsche" />
+  <Car5 Name="FR-S" Combined="28" Manufacturer="SCION" />
+  <Car5 Name="FR-S" Combined="25" Manufacturer="SCION" />
+  <Car5 Name="BRZ" Combined="28" Manufacturer="Subaru" />
+  <Car5 Name="BRZ" Combined="25" Manufacturer="Subaru" />
+  <Car5 Name="Rapide S" Combined="17" Manufacturer="Aston Martin Lagonda Ltd" />
+  <Car5 Name="A3" Combined="27" Manufacturer="Audi" />
+  <Car5 Name="A3 Cabriolet" Combined="28" Manufacturer="Audi" />
+  <Car5 Name="A3 Cabriolet quattro" Combined="26" Manufacturer="Audi" />
+  <Car5 Name="A3 quattro" Combined="27" Manufacturer="Audi" />
+  <Car5 Name="A5 Cabriolet quattro" Combined="24" Manufacturer="Audi" />
+  <Car5 Name="A5 quattro" Combined="25" Manufacturer="Audi" />
+  <Car5 Name="A5 quattro" Combined="26" Manufacturer="Audi" />
+  <Car5 Name="S3" Combined="26" Manufacturer="Audi" />
+  <Car5 Name="S5" Combined="21" Manufacturer="Audi" />
+  <Car5 Name="S5" Combined="20" Manufacturer="Audi" />
+  <Car5 Name="S5 Cabriolet" Combined="21" Manufacturer="Audi" />
+  <Car5 Name="TT Coupe quattro" Combined="26" Manufacturer="Audi" />
+  <Car5 Name="TTS Coupe" Combined="25" Manufacturer="Audi" />
+  <Car5 Name="Continental GT Convertible" Combined="17" Manufacturer="Bentley" />
+  <Car5 Name="Continental GT Convertible" Combined="15" Manufacturer="Bentley" />
+  <Car5 Name="228i" Combined="27" Manufacturer="BMW" />
+  <Car5 Name="228i" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="228i Convertible" Combined="27" Manufacturer="BMW" />
+  <Car5 Name="228i xDrive" Combined="27" Manufacturer="BMW" />
+  <Car5 Name="228i xDrive Convertible" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="428i Convertible" Combined="27" Manufacturer="BMW" />
+  <Car5 Name="428i xDrive Convertible" Combined="25" Manufacturer="BMW" />
+  <Car5 Name="435i Convertible" Combined="24" Manufacturer="BMW" />
+  <Car5 Name="435i xDrive Convertible" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="640i Convertible" Combined="24" Manufacturer="BMW" />
+  <Car5 Name="640i Coupe" Combined="24" Manufacturer="BMW" />
+  <Car5 Name="640i xDrive Convertible" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="640i xDrive Coupe" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="650i Convertible" Combined="20" Manufacturer="BMW" />
+  <Car5 Name="650i Coupe" Combined="20" Manufacturer="BMW" />
+  <Car5 Name="650i xDrive Convertible" Combined="18" Manufacturer="BMW" />
+  <Car5 Name="650i xDrive Coupe" Combined="19" Manufacturer="BMW" />
+  <Car5 Name="M2" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="M2" Combined="21" Manufacturer="BMW" />
+  <Car5 Name="M235i" Combined="24" Manufacturer="BMW" />
+  <Car5 Name="M235i" Combined="22" Manufacturer="BMW" />
+  <Car5 Name="M235i Convertible" Combined="24" Manufacturer="BMW" />
+  <Car5 Name="M235i Convertible" Combined="22" Manufacturer="BMW" />
+  <Car5 Name="M235i xDrive" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="M235i xDrive Convertible" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="M4 Convertible" Combined="19" Manufacturer="BMW" />
+  <Car5 Name="M4 Convertible" Combined="20" Manufacturer="BMW" />
+  <Car5 Name="M6 Convertible" Combined="16" Manufacturer="BMW" />
+  <Car5 Name="M6 Convertible" Combined="17" Manufacturer="BMW" />
+  <Car5 Name="M6 Coupe" Combined="16" Manufacturer="BMW" />
+  <Car5 Name="M6 Coupe" Combined="17" Manufacturer="BMW" />
+  <Car5 Name="CASCADA" Combined="23" Manufacturer="Buick" />
+  <Car5 Name="SPARK" Combined="35" Manufacturer="Chevrolet" />
+  <Car5 Name="SPARK" Combined="34" Manufacturer="Chevrolet" />
+  <Car5 Name="Fiesta FWD" Combined="31" Manufacturer="Ford" />
+  <Car5 Name="Fiesta FWD" Combined="31" Manufacturer="Ford" />
+  <Car5 Name="Fiesta SFE FWD" Combined="36" Manufacturer="Ford" />
+  <Car5 Name="MUSTANG" Combined="25" Manufacturer="Ford" />
+  <Car5 Name="MUSTANG" Combined="25" Manufacturer="Ford" />
+  <Car5 Name="MUSTANG" Combined="22" Manufacturer="Ford" />
+  <Car5 Name="MUSTANG" Combined="21" Manufacturer="Ford" />
+  <Car5 Name="MUSTANG" Combined="19" Manufacturer="Ford" />
+  <Car5 Name="MUSTANG" Combined="19" Manufacturer="Ford" />
+  <Car5 Name="MUSTANG CONVERTIBLE" Combined="24" Manufacturer="Ford" />
+  <Car5 Name="MUSTANG CONVERTIBLE" Combined="18" Manufacturer="Ford" />
+  <Car5 Name="SHELBY GT350 MUSTANG" Combined="16" Manufacturer="Ford" />
+  <Car5 Name="Genesis Coupe" Combined="19" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Genesis Coupe" Combined="19" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="RC 200t" Combined="26" Manufacturer="LEXUS" />
+  <Car5 Name="RC 300 AWD" Combined="21" Manufacturer="LEXUS" />
+  <Car5 Name="RC 350" Combined="22" Manufacturer="LEXUS" />
+  <Car5 Name="RC 350 AWD" Combined="21" Manufacturer="LEXUS" />
+  <Car5 Name="RC F" Combined="19" Manufacturer="LEXUS" />
+  <Car5 Name="GRANTURISMO" Combined="16" Manufacturer="MASERATI" />
+  <Car5 Name="GRANTURISMO CONVERTIBLE" Combined="15" Manufacturer="MASERATI" />
+  <Car5 Name="E 400 (convertible)" Combined="24" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 400 (coupe)" Combined="24" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 400 4MATIC (coupe)" Combined="23" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 550 (convertible)" Combined="20" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 550 (coupe)" Combined="21" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="MINI COOPER HARDTOP 2 DOOR" Combined="31" Manufacturer="Mini" />
+  <Car5 Name="MINI COOPER HARDTOP 2 DOOR" Combined="32" Manufacturer="Mini" />
+  <Car5 Name="MINI COOPER HARDTOP 4 DOOR" Combined="31" Manufacturer="Mini" />
+  <Car5 Name="MINI COOPER HARDTOP 4 DOOR" Combined="33" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Hardtop 2 door" Combined="29" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Hardtop 2 door" Combined="27" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Hardtop 4 door" Combined="29" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Hardtop 4 door" Combined="27" Manufacturer="Mini" />
+  <Car5 Name="MINI John Cooper Works Hardtop" Combined="28" Manufacturer="Mini" />
+  <Car5 Name="MINI John Cooper Works Hardtop" Combined="26" Manufacturer="Mini" />
+  <Car5 Name="GT-R" Combined="19" Manufacturer="NISSAN" />
+  <Car5 Name="Roush Stage 3 Mustang" Combined="16" Manufacturer="Roush" />
+  <Car5 Name="Roush Stage 3 Mustang" Combined="16" Manufacturer="Roush" />
+  <Car5 Name="iA" Combined="37" Manufacturer="SCION" />
+  <Car5 Name="iA" Combined="35" Manufacturer="SCION" />
+  <Car5 Name="Beetle Convertible" Combined="28" Manufacturer="Volkswagen" />
+  <Car5 Name="Beetle Convertible" Combined="26" Manufacturer="Volkswagen" />
+  <Car5 Name="Beetle Convertible" Combined="26" Manufacturer="Volkswagen" />
+  <Car5 Name="Eos" Combined="25" Manufacturer="Volkswagen" />
+  <Car5 Name="ILX" Combined="29" Manufacturer="Acura" />
+  <Car5 Name="TLX 2WD" Combined="28" Manufacturer="Acura" />
+  <Car5 Name="TLX 2WD" Combined="25" Manufacturer="Acura" />
+  <Car5 Name="TLX 4WD" Combined="25" Manufacturer="Acura" />
+  <Car5 Name="A4" Combined="27" Manufacturer="Audi" />
+  <Car5 Name="A4 quattro" Combined="25" Manufacturer="Audi" />
+  <Car5 Name="A4 quattro" Combined="26" Manufacturer="Audi" />
+  <Car5 Name="Q3" Combined="23" Manufacturer="Audi" />
+  <Car5 Name="Q3 quattro" Combined="23" Manufacturer="Audi" />
+  <Car5 Name="S4" Combined="21" Manufacturer="Audi" />
+  <Car5 Name="S4" Combined="20" Manufacturer="Audi" />
+  <Car5 Name="Continental GT" Combined="19" Manufacturer="Bentley" />
+  <Car5 Name="Continental GT" Combined="15" Manufacturer="Bentley" />
+  <Car5 Name="320i" Combined="28" Manufacturer="BMW" />
+  <Car5 Name="320i" Combined="28" Manufacturer="BMW" />
+  <Car5 Name="320i xDrive" Combined="27" Manufacturer="BMW" />
+  <Car5 Name="328d" Combined="36" Manufacturer="BMW" />
+  <Car5 Name="328d xDrive" Combined="34" Manufacturer="BMW" />
+  <Car5 Name="328i" Combined="27" Manufacturer="BMW" />
+  <Car5 Name="328i" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="328i xDrive" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="340i" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="340i" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="340i xDrive" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="340i xDrive" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="428i Coupe" Combined="27" Manufacturer="BMW" />
+  <Car5 Name="428i Coupe" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="428i Gran Coupe" Combined="27" Manufacturer="BMW" />
+  <Car5 Name="428i xDrive Coupe" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="428i xDrive Gran Coupe" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="435i Coupe" Combined="24" Manufacturer="BMW" />
+  <Car5 Name="435i Coupe" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="435i Gran Coupe" Combined="24" Manufacturer="BMW" />
+  <Car5 Name="435i xDrive Coupe" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="435i xDrive Coupe" Combined="22" Manufacturer="BMW" />
+  <Car5 Name="435i xDrive Gran Coupe" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="640i Gran Coupe" Combined="24" Manufacturer="BMW" />
+  <Car5 Name="640i xDrive Gran Coupe" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="650i Gran Coupe" Combined="20" Manufacturer="BMW" />
+  <Car5 Name="650i xDrive Gran Coupe" Combined="18" Manufacturer="BMW" />
+  <Car5 Name="Alpina B6 Gran Coupe xDrive" Combined="18" Manufacturer="BMW" />
+  <Car5 Name="M3" Combined="19" Manufacturer="BMW" />
+  <Car5 Name="M3" Combined="20" Manufacturer="BMW" />
+  <Car5 Name="M4 Coupe" Combined="19" Manufacturer="BMW" />
+  <Car5 Name="M4 Coupe" Combined="20" Manufacturer="BMW" />
+  <Car5 Name="M6 Gran Coupe" Combined="16" Manufacturer="BMW" />
+  <Car5 Name="M6 Gran Coupe" Combined="17" Manufacturer="BMW" />
+  <Car5 Name="VERANO" Combined="24" Manufacturer="Buick" />
+  <Car5 Name="VERANO" Combined="24" Manufacturer="Buick" />
+  <Car5 Name="VERANO" Combined="25" Manufacturer="Buick" />
+  <Car5 Name="ATS" Combined="26" Manufacturer="Cadillac" />
+  <Car5 Name="ATS" Combined="23" Manufacturer="Cadillac" />
+  <Car5 Name="ATS" Combined="26" Manufacturer="Cadillac" />
+  <Car5 Name="ATS" Combined="24" Manufacturer="Cadillac" />
+  <Car5 Name="ATS AWD" Combined="25" Manufacturer="Cadillac" />
+  <Car5 Name="ATS AWD" Combined="22" Manufacturer="Cadillac" />
+  <Car5 Name="ATS-V" Combined="19" Manufacturer="Cadillac" />
+  <Car5 Name="ATS-V" Combined="19" Manufacturer="Cadillac" />
+  <Car5 Name="CAMARO" Combined="25" Manufacturer="Chevrolet" />
+  <Car5 Name="CAMARO" Combined="24" Manufacturer="Chevrolet" />
+  <Car5 Name="CAMARO" Combined="23" Manufacturer="Chevrolet" />
+  <Car5 Name="CAMARO" Combined="21" Manufacturer="Chevrolet" />
+  <Car5 Name="CAMARO" Combined="20" Manufacturer="Chevrolet" />
+  <Car5 Name="CAMARO" Combined="19" Manufacturer="Chevrolet" />
+  <Car5 Name="CRUZE" Combined="35" Manufacturer="Chevrolet" />
+  <Car5 Name="CRUZE" Combined="33" Manufacturer="Chevrolet" />
+  <Car5 Name="CRUZE PREMIER" Combined="34" Manufacturer="Chevrolet" />
+  <Car5 Name="SONIC" Combined="31" Manufacturer="Chevrolet" />
+  <Car5 Name="SONIC" Combined="33" Manufacturer="Chevrolet" />
+  <Car5 Name="SONIC" Combined="28" Manufacturer="Chevrolet" />
+  <Car5 Name="SONIC" Combined="30" Manufacturer="Chevrolet" />
+  <Car5 Name="SONIC RS" Combined="28" Manufacturer="Chevrolet" />
+  <Car5 Name="SONIC RS" Combined="30" Manufacturer="Chevrolet" />
+  <Car5 Name="Fiesta ST FWD" Combined="29" Manufacturer="Ford" />
+  <Car5 Name="FOCUS FWD" Combined="32" Manufacturer="Ford" />
+  <Car5 Name="FOCUS FWD" Combined="35" Manufacturer="Ford" />
+  <Car5 Name="FOCUS FWD" Combined="31" Manufacturer="Ford" />
+  <Car5 Name="FOCUS FWD" Combined="30" Manufacturer="Ford" />
+  <Car5 Name="FOCUS FWD" Combined="30" Manufacturer="Ford" />
+  <Car5 Name="Focus FWD FFV" Combined="31" Manufacturer="Ford" />
+  <Car5 Name="Focus FWD FFV" Combined="30" Manufacturer="Ford" />
+  <Car5 Name="Focus FWD FFV" Combined="30" Manufacturer="Ford" />
+  <Car5 Name="CIVIC 2Dr" Combined="35" Manufacturer="Honda" />
+  <Car5 Name="CIVIC 2Dr" Combined="34" Manufacturer="Honda" />
+  <Car5 Name="CIVIC 2Dr" Combined="31" Manufacturer="Honda" />
+  <Car5 Name="Accent" Combined="30" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Accent" Combined="31" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Veloster" Combined="29" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Veloster" Combined="31" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Veloster" Combined="28" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Veloster" Combined="30" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Q50 HYBRID" Combined="30" Manufacturer="INFINITI" />
+  <Car5 Name="Q50 HYBRID AWD" Combined="28" Manufacturer="INFINITI" />
+  <Car5 Name="Forte Koup" Combined="25" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Forte Koup" Combined="25" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Forte Koup" Combined="28" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Forte Koup" Combined="27" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Rio" Combined="31" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Rio" Combined="31" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Rio ECO" Combined="31" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="CT 200h" Combined="42" Manufacturer="LEXUS" />
+  <Car5 Name="GS F" Combined="19" Manufacturer="LEXUS" />
+  <Car5 Name="IS 200t" Combined="26" Manufacturer="LEXUS" />
+  <Car5 Name="IS 300 AWD" Combined="21" Manufacturer="LEXUS" />
+  <Car5 Name="IS 350" Combined="22" Manufacturer="LEXUS" />
+  <Car5 Name="IS 350 AWD" Combined="21" Manufacturer="LEXUS" />
+  <Car5 Name="CX-3 2WD" Combined="31" Manufacturer="MAZDA" />
+  <Car5 Name="CX-3 4WD" Combined="29" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA 2" Combined="37" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA 2" Combined="35" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA3 4-Door" Combined="34" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA3 4-Door" Combined="33" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA3 4-Door" Combined="33" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA3 4-Door" Combined="32" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA3 4-Door" Combined="29" Manufacturer="MAZDA" />
+  <Car5 Name="AMG C 63" Combined="20" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG C 63 S" Combined="20" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG CLA 45 4MATIC" Combined="26" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG CLS 63 S 4MATIC" Combined="18" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG S 63 4MATIC (coupe)" Combined="18" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG S 65 (coupe)" Combined="15" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="C 300" Combined="28" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="C 300 4MATIC" Combined="27" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="C 450 AMG" Combined="24" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="CLA 250" Combined="30" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="CLA 250 4MATIC" Combined="27" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="CLA 250 4MATIC" Combined="27" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="CLS 400" Combined="24" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="CLS 400 4MATIC" Combined="22" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="CLS 550" Combined="21" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="CLS 550 4MATIC" Combined="20" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="S 550 4MATIC (coupe)" Combined="19" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="Mini Cooper Countryman" Combined="27" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper Countryman" Combined="29" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper Paceman" Combined="27" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper Paceman" Combined="29" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Countryman" Combined="28" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Countryman" Combined="29" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Countryman All4" Combined="26" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Countryman All4" Combined="27" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Paceman" Combined="28" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Paceman" Combined="29" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Paceman ALL4" Combined="26" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Paceman ALL4" Combined="27" Manufacturer="Mini" />
+  <Car5 Name="Mini JCW Countryman ALL4" Combined="26" Manufacturer="Mini" />
+  <Car5 Name="Mini JCW Countryman ALL4" Combined="27" Manufacturer="Mini" />
+  <Car5 Name="Mini JCW Paceman ALL4" Combined="26" Manufacturer="Mini" />
+  <Car5 Name="Mini JCW Paceman ALL4" Combined="27" Manufacturer="Mini" />
+  <Car5 Name="LANCER" Combined="30" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="LANCER" Combined="28" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="LANCER" Combined="27" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="LANCER" Combined="25" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="LANCER 4WD" Combined="26" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="VERSA" Combined="30" Manufacturer="NISSAN" />
+  <Car5 Name="VERSA" Combined="35" Manufacturer="NISSAN" />
+  <Car5 Name="VERSA" Combined="30" Manufacturer="NISSAN" />
+  <Car5 Name="Dawn" Combined="14" Manufacturer="Rolls-Royce Motor Cars Limited" />
+  <Car5 Name="Phantom Coupe" Combined="14" Manufacturer="Rolls-Royce Motor Cars Limited" />
+  <Car5 Name="Phantom Drophead Coupe" Combined="14" Manufacturer="Rolls-Royce Motor Cars Limited" />
+  <Car5 Name="tC" Combined="26" Manufacturer="SCION" />
+  <Car5 Name="tC" Combined="26" Manufacturer="SCION" />
+  <Car5 Name="IMPREZA" Combined="31" Manufacturer="Subaru" />
+  <Car5 Name="IMPREZA" Combined="28" Manufacturer="Subaru" />
+  <Car5 Name="WRX" Combined="21" Manufacturer="Subaru" />
+  <Car5 Name="WRX" Combined="23" Manufacturer="Subaru" />
+  <Car5 Name="WRX" Combined="19" Manufacturer="Subaru" />
+  <Car5 Name="PRIUS c" Combined="50" Manufacturer="TOYOTA" />
+  <Car5 Name="YARIS" Combined="32" Manufacturer="TOYOTA" />
+  <Car5 Name="YARIS" Combined="33" Manufacturer="TOYOTA" />
+  <Car5 Name="Beetle" Combined="28" Manufacturer="Volkswagen" />
+  <Car5 Name="Beetle" Combined="28" Manufacturer="Volkswagen" />
+  <Car5 Name="Beetle" Combined="27" Manufacturer="Volkswagen" />
+  <Car5 Name="Beetle" Combined="26" Manufacturer="Volkswagen" />
+  <Car5 Name="Beetle Dune" Combined="27" Manufacturer="Volkswagen" />
+  <Car5 Name="CC" Combined="25" Manufacturer="Volkswagen" />
+  <Car5 Name="CC" Combined="25" Manufacturer="Volkswagen" />
+  <Car5 Name="CC 4Motion" Combined="20" Manufacturer="Volkswagen" />
+  <Car5 Name="Golf" Combined="29" Manufacturer="Volkswagen" />
+  <Car5 Name="Golf" Combined="30" Manufacturer="Volkswagen" />
+  <Car5 Name="Golf R" Combined="25" Manufacturer="Volkswagen" />
+  <Car5 Name="Golf R" Combined="25" Manufacturer="Volkswagen" />
+  <Car5 Name="GTI" Combined="28" Manufacturer="Volkswagen" />
+  <Car5 Name="GTI" Combined="28" Manufacturer="Volkswagen" />
+  <Car5 Name="Jetta" Combined="32" Manufacturer="Volkswagen" />
+  <Car5 Name="Jetta" Combined="33" Manufacturer="Volkswagen" />
+  <Car5 Name="Jetta" Combined="29" Manufacturer="Volkswagen" />
+  <Car5 Name="Jetta" Combined="29" Manufacturer="Volkswagen" />
+  <Car5 Name="Jetta" Combined="27" Manufacturer="Volkswagen" />
+  <Car5 Name="Jetta" Combined="27" Manufacturer="Volkswagen" />
+  <Car5 Name="Jetta Hybrid" Combined="44" Manufacturer="Volkswagen" />
+  <Car5 Name="S60 AWD" Combined="25" Manufacturer="Volvo" />
+  <Car5 Name="S60 AWD" Combined="23" Manufacturer="Volvo" />
+  <Car5 Name="S60 AWD" Combined="21" Manufacturer="Volvo" />
+  <Car5 Name="S60 CC AWD" Combined="23" Manufacturer="Volvo" />
+  <Car5 Name="S60 FWD" Combined="30" Manufacturer="Volvo" />
+  <Car5 Name="S60 FWD" Combined="27" Manufacturer="Volvo" />
+  <Car5 Name="S60 Inscription AWD" Combined="23" Manufacturer="Volvo" />
+  <Car5 Name="S60 Inscription FWD" Combined="29" Manufacturer="Volvo" />
+  <Car5 Name="S60 Polestar AWD" Combined="21" Manufacturer="Volvo" />
+  <Car5 Name="RLX" Combined="30" Manufacturer="Acura" />
+  <Car5 Name="RLX" Combined="24" Manufacturer="Acura" />
+  <Car5 Name="A6" Combined="28" Manufacturer="Audi" />
+  <Car5 Name="A6 quattro" Combined="26" Manufacturer="Audi" />
+  <Car5 Name="A6 quattro" Combined="30" Manufacturer="Audi" />
+  <Car5 Name="A6 quattro" Combined="24" Manufacturer="Audi" />
+  <Car5 Name="A7 quattro" Combined="30" Manufacturer="Audi" />
+  <Car5 Name="A7 quattro" Combined="24" Manufacturer="Audi" />
+  <Car5 Name="RS7" Combined="18" Manufacturer="Audi" />
+  <Car5 Name="S6" Combined="21" Manufacturer="Audi" />
+  <Car5 Name="S7" Combined="21" Manufacturer="Audi" />
+  <Car5 Name="S8" Combined="19" Manufacturer="Audi" />
+  <Car5 Name="Flying Spur" Combined="17" Manufacturer="Bentley" />
+  <Car5 Name="Flying Spur" Combined="15" Manufacturer="Bentley" />
+  <Car5 Name="Mulsanne" Combined="13" Manufacturer="Bentley" />
+  <Car5 Name="528i" Combined="27" Manufacturer="BMW" />
+  <Car5 Name="528i xDrive" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="535d" Combined="30" Manufacturer="BMW" />
+  <Car5 Name="535d xDrive" Combined="30" Manufacturer="BMW" />
+  <Car5 Name="535i" Combined="24" Manufacturer="BMW" />
+  <Car5 Name="535i xDrive" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="550i" Combined="20" Manufacturer="BMW" />
+  <Car5 Name="550i xDrive" Combined="19" Manufacturer="BMW" />
+  <Car5 Name="ActiveHybrid 5" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="M5" Combined="16" Manufacturer="BMW" />
+  <Car5 Name="M5" Combined="17" Manufacturer="BMW" />
+  <Car5 Name="LACROSSE" Combined="29" Manufacturer="Buick" />
+  <Car5 Name="LACROSSE" Combined="22" Manufacturer="Buick" />
+  <Car5 Name="LACROSSE" Combined="21" Manufacturer="Buick" />
+  <Car5 Name="LACROSSE AWD" Combined="20" Manufacturer="Buick" />
+  <Car5 Name="REGAL" Combined="24" Manufacturer="Buick" />
+  <Car5 Name="REGAL" Combined="24" Manufacturer="Buick" />
+  <Car5 Name="REGAL" Combined="29" Manufacturer="Buick" />
+  <Car5 Name="REGAL" Combined="23" Manufacturer="Buick" />
+  <Car5 Name="REGAL AWD" Combined="22" Manufacturer="Buick" />
+  <Car5 Name="CTS SEDAN" Combined="25" Manufacturer="Cadillac" />
+  <Car5 Name="CTS SEDAN" Combined="24" Manufacturer="Cadillac" />
+  <Car5 Name="CTS SEDAN" Combined="19" Manufacturer="Cadillac" />
+  <Car5 Name="CTS SEDAN AWD" Combined="24" Manufacturer="Cadillac" />
+  <Car5 Name="CTS SEDAN AWD" Combined="22" Manufacturer="Cadillac" />
+  <Car5 Name="CTS-V" Combined="17" Manufacturer="Cadillac" />
+  <Car5 Name="CRUZE LIMITED" Combined="30" Manufacturer="Chevrolet" />
+  <Car5 Name="CRUZE LIMITED" Combined="30" Manufacturer="Chevrolet" />
+  <Car5 Name="CRUZE LIMITED" Combined="27" Manufacturer="Chevrolet" />
+  <Car5 Name="CRUZE LIMITED" Combined="29" Manufacturer="Chevrolet" />
+  <Car5 Name="CRUZE LIMITED ECO" Combined="31" Manufacturer="Chevrolet" />
+  <Car5 Name="CRUZE LIMITED ECO" Combined="33" Manufacturer="Chevrolet" />
+  <Car5 Name="Impala Bi-Fuel (CNG)" Combined="20" Manufacturer="Chevrolet" />
+  <Car5 Name="MALIBU" Combined="31" Manufacturer="Chevrolet" />
+  <Car5 Name="MALIBU" Combined="46" Manufacturer="Chevrolet" />
+  <Car5 Name="MALIBU" Combined="26" Manufacturer="Chevrolet" />
+  <Car5 Name="MALIBU LIMITED" Combined="27" Manufacturer="Chevrolet" />
+  <Car5 Name="SONIC 5 RS" Combined="28" Manufacturer="Chevrolet" />
+  <Car5 Name="SONIC 5 RS" Combined="30" Manufacturer="Chevrolet" />
+  <Car5 Name="200" Combined="28" Manufacturer="Chrysler" />
+  <Car5 Name="200" Combined="28" Manufacturer="Chrysler" />
+  <Car5 Name="200" Combined="23" Manufacturer="Chrysler" />
+  <Car5 Name="200 AWD" Combined="22" Manufacturer="Chrysler" />
+  <Car5 Name="Challenger" Combined="23" Manufacturer="Dodge" />
+  <Car5 Name="Challenger" Combined="19" Manufacturer="Dodge" />
+  <Car5 Name="Challenger" Combined="18" Manufacturer="Dodge" />
+  <Car5 Name="Challenger" Combined="18" Manufacturer="Dodge" />
+  <Car5 Name="Challenger" Combined="17" Manufacturer="Dodge" />
+  <Car5 Name="Challenger SRT8" Combined="16" Manufacturer="Dodge" />
+  <Car5 Name="Challenger SRT8" Combined="16" Manufacturer="Dodge" />
+  <Car5 Name="Challenger SRT8" Combined="18" Manufacturer="Dodge" />
+  <Car5 Name="Challenger SRT8" Combined="17" Manufacturer="Dodge" />
+  <Car5 Name="Dart" Combined="31" Manufacturer="Dodge" />
+  <Car5 Name="Dart" Combined="27" Manufacturer="Dodge" />
+  <Car5 Name="Dart" Combined="29" Manufacturer="Dodge" />
+  <Car5 Name="Dart" Combined="27" Manufacturer="Dodge" />
+  <Car5 Name="Dart" Combined="27" Manufacturer="Dodge" />
+  <Car5 Name="Dart Aero" Combined="32" Manufacturer="Dodge" />
+  <Car5 Name="Dart Aero" Combined="32" Manufacturer="Dodge" />
+  <Car5 Name="Dart GT" Combined="26" Manufacturer="Dodge" />
+  <Car5 Name="Dart GT" Combined="27" Manufacturer="Dodge" />
+  <Car5 Name="FF" Combined="13" Manufacturer="Ferrari" />
+  <Car5 Name="FF" Combined="13" Manufacturer="Ferrari" />
+  <Car5 Name="FOCUS RS AWD" Combined="22" Manufacturer="Ford" />
+  <Car5 Name="Focus ST FWD" Combined="25" Manufacturer="Ford" />
+  <Car5 Name="FUSION AWD" Combined="25" Manufacturer="Ford" />
+  <Car5 Name="FUSION FWD" Combined="28" Manufacturer="Ford" />
+  <Car5 Name="FUSION FWD" Combined="29" Manufacturer="Ford" />
+  <Car5 Name="FUSION FWD" Combined="26" Manufacturer="Ford" />
+  <Car5 Name="FUSION FWD" Combined="26" Manufacturer="Ford" />
+  <Car5 Name="FUSION HYBRID FWD" Combined="42" Manufacturer="Ford" />
+  <Car5 Name="ACCORD" Combined="31" Manufacturer="Honda" />
+  <Car5 Name="ACCORD" Combined="30" Manufacturer="Honda" />
+  <Car5 Name="ACCORD" Combined="27" Manufacturer="Honda" />
+  <Car5 Name="ACCORD" Combined="26" Manufacturer="Honda" />
+  <Car5 Name="ACCORD" Combined="25" Manufacturer="Honda" />
+  <Car5 Name="ACCORD" Combined="22" Manufacturer="Honda" />
+  <Car5 Name="CIVIC 4Dr" Combined="35" Manufacturer="Honda" />
+  <Car5 Name="CIVIC 4Dr" Combined="35" Manufacturer="Honda" />
+  <Car5 Name="CIVIC 4Dr" Combined="31" Manufacturer="Honda" />
+  <Car5 Name="Elantra" Combined="32" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Elantra" Combined="31" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Elantra" Combined="28" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Elantra" Combined="28" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Elantra GT" Combined="27" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Elantra GT" Combined="27" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Elantra Limited" Combined="31" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Sonata HYBRID" Combined="41" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Sonata HYBRID SE" Combined="42" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Q50" Combined="26" Manufacturer="INFINITI" />
+  <Car5 Name="Q50" Combined="23" Manufacturer="INFINITI" />
+  <Car5 Name="Q50 AWD" Combined="24" Manufacturer="INFINITI" />
+  <Car5 Name="Q50 AWD" Combined="22" Manufacturer="INFINITI" />
+  <Car5 Name="Q50S" Combined="23" Manufacturer="INFINITI" />
+  <Car5 Name="Q50S AWD" Combined="21" Manufacturer="INFINITI" />
+  <Car5 Name="Q50S AWD Red Sport" Combined="22" Manufacturer="INFINITI" />
+  <Car5 Name="Q50S Red Sport" Combined="22" Manufacturer="INFINITI" />
+  <Car5 Name="Q70" Combined="21" Manufacturer="INFINITI" />
+  <Car5 Name="Q70" Combined="19" Manufacturer="INFINITI" />
+  <Car5 Name="Q70 AWD" Combined="20" Manufacturer="INFINITI" />
+  <Car5 Name="Q70 AWD" Combined="18" Manufacturer="INFINITI" />
+  <Car5 Name="Q70 HYBRID" Combined="31" Manufacturer="INFINITI" />
+  <Car5 Name="XF" Combined="24" Manufacturer="Jaguar" />
+  <Car5 Name="XF AWD" Combined="23" Manufacturer="Jaguar" />
+  <Car5 Name="Forte" Combined="31" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Forte" Combined="30" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Forte" Combined="28" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Optima HYBRID" Combined="38" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Optima HYBRID EX" Combined="37" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="ES 300h" Combined="40" Manufacturer="LEXUS" />
+  <Car5 Name="ES 350" Combined="24" Manufacturer="LEXUS" />
+  <Car5 Name="GS 200t" Combined="26" Manufacturer="LEXUS" />
+  <Car5 Name="GS 200t F SPORT" Combined="24" Manufacturer="LEXUS" />
+  <Car5 Name="GS 350" Combined="23" Manufacturer="LEXUS" />
+  <Car5 Name="GS 350 AWD" Combined="22" Manufacturer="LEXUS" />
+  <Car5 Name="GS 350 F SPORT" Combined="22" Manufacturer="LEXUS" />
+  <Car5 Name="GS 450h" Combined="31" Manufacturer="LEXUS" />
+  <Car5 Name="LS 460" Combined="19" Manufacturer="LEXUS" />
+  <Car5 Name="LS 460 AWD" Combined="18" Manufacturer="LEXUS" />
+  <Car5 Name="LS 460 L" Combined="19" Manufacturer="LEXUS" />
+  <Car5 Name="LS 460 L AWD" Combined="18" Manufacturer="LEXUS" />
+  <Car5 Name="LS 600h L" Combined="20" Manufacturer="LEXUS" />
+  <Car5 Name="MKZ AWD" Combined="25" Manufacturer="Lincoln" />
+  <Car5 Name="MKZ AWD" Combined="20" Manufacturer="Lincoln" />
+  <Car5 Name="MKZ FWD" Combined="26" Manufacturer="Lincoln" />
+  <Car5 Name="MKZ FWD" Combined="22" Manufacturer="Lincoln" />
+  <Car5 Name="MKZ HYBRID FWD" Combined="40" Manufacturer="Lincoln" />
+  <Car5 Name="Ghibli  S RWD" Combined="19" Manufacturer="MASERATI" />
+  <Car5 Name="Ghibli V6 Rear Wheel Drive (RWD)" Combined="19" Manufacturer="MASERATI" />
+  <Car5 Name="Ghibli V6 SQ4 AWD" Combined="19" Manufacturer="MASERATI" />
+  <Car5 Name="MAZDA 6" Combined="32" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA 6" Combined="31" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA 6" Combined="29" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA3 5-Door" Combined="33" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA3 5-Door" Combined="33" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA3 5-Door" Combined="32" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA3 5-Door" Combined="31" Manufacturer="MAZDA" />
+  <Car5 Name="MAZDA3 5-Door" Combined="29" Manufacturer="MAZDA" />
+  <Car5 Name="AMG E 63 4MATIC" Combined="19" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG E 63 S 4MATIC" Combined="18" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 250 BLUETEC" Combined="33" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 250 BLUETEC 4MATIC" Combined="31" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 350" Combined="23" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 350" Combined="23" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 350 4MATIC" Combined="23" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 350 4MATIC" Combined="23" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 400" Combined="23" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 400 4MATIC" Combined="23" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 550 4MATIC" Combined="21" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="Mini Cooper Clubman" Combined="28" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper Clubman" Combined="28" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Clubman" Combined="27" Manufacturer="Mini" />
+  <Car5 Name="Mini Cooper S Clubman" Combined="26" Manufacturer="Mini" />
+  <Car5 Name="ALTIMA" Combined="31" Manufacturer="NISSAN" />
+  <Car5 Name="ALTIMA 3.5" Combined="26" Manufacturer="NISSAN" />
+  <Car5 Name="ALTIMA SR" Combined="30" Manufacturer="NISSAN" />
+  <Car5 Name="MAXIMA" Combined="25" Manufacturer="NISSAN" />
+  <Car5 Name="SENTRA" Combined="32" Manufacturer="NISSAN" />
+  <Car5 Name="SENTRA" Combined="30" Manufacturer="NISSAN" />
+  <Car5 Name="SENTRA FE+" Combined="34" Manufacturer="NISSAN" />
+  <Car5 Name="Wraith" Combined="15" Manufacturer="Rolls-Royce Motor Cars Limited" />
+  <Car5 Name="iM" Combined="32" Manufacturer="SCION" />
+  <Car5 Name="iM" Combined="31" Manufacturer="SCION" />
+  <Car5 Name="LEGACY" Combined="30" Manufacturer="Subaru" />
+  <Car5 Name="LEGACY" Combined="23" Manufacturer="Subaru" />
+  <Car5 Name="AVALON" Combined="24" Manufacturer="TOYOTA" />
+  <Car5 Name="AVALON HYBRID" Combined="40" Manufacturer="TOYOTA" />
+  <Car5 Name="CAMRY" Combined="28" Manufacturer="TOYOTA" />
+  <Car5 Name="CAMRY" Combined="25" Manufacturer="TOYOTA" />
+  <Car5 Name="CAMRY HYBRID LE" Combined="41" Manufacturer="TOYOTA" />
+  <Car5 Name="CAMRY HYBRID XLE/SE" Combined="40" Manufacturer="TOYOTA" />
+  <Car5 Name="COROLLA" Combined="31" Manufacturer="TOYOTA" />
+  <Car5 Name="COROLLA" Combined="32" Manufacturer="TOYOTA" />
+  <Car5 Name="COROLLA" Combined="32" Manufacturer="TOYOTA" />
+  <Car5 Name="COROLLA" Combined="31" Manufacturer="TOYOTA" />
+  <Car5 Name="COROLLA LE ECO" Combined="35" Manufacturer="TOYOTA" />
+  <Car5 Name="COROLLA LE ECO" Combined="34" Manufacturer="TOYOTA" />
+  <Car5 Name="PRIUS" Combined="52" Manufacturer="TOYOTA" />
+  <Car5 Name="PRIUS Eco" Combined="56" Manufacturer="TOYOTA" />
+  <Car5 Name="Passat" Combined="29" Manufacturer="Volkswagen" />
+  <Car5 Name="Passat" Combined="23" Manufacturer="Volkswagen" />
+  <Car5 Name="S80 FWD" Combined="29" Manufacturer="Volvo" />
+  <Car5 Name="A8L" Combined="28" Manufacturer="Audi" />
+  <Car5 Name="A8L" Combined="22" Manufacturer="Audi" />
+  <Car5 Name="A8L" Combined="22" Manufacturer="Audi" />
+  <Car5 Name="A8L" Combined="17" Manufacturer="Audi" />
+  <Car5 Name="328i xDrive Gran Turismo" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="335i xDrive Gran Turismo" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="535i Gran Turismo" Combined="22" Manufacturer="BMW" />
+  <Car5 Name="535i xDrive Gran Turismo" Combined="21" Manufacturer="BMW" />
+  <Car5 Name="740i" Combined="24" Manufacturer="BMW" />
+  <Car5 Name="750i" Combined="20" Manufacturer="BMW" />
+  <Car5 Name="750i xDrive" Combined="19" Manufacturer="BMW" />
+  <Car5 Name="X1 xDrive28i" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="CT6" Combined="25" Manufacturer="Cadillac" />
+  <Car5 Name="CT6 AWD" Combined="21" Manufacturer="Cadillac" />
+  <Car5 Name="CT6 AWD" Combined="22" Manufacturer="Cadillac" />
+  <Car5 Name="XTS" Combined="22" Manufacturer="Cadillac" />
+  <Car5 Name="XTS AWD" Combined="20" Manufacturer="Cadillac" />
+  <Car5 Name="XTS AWD" Combined="18" Manufacturer="Cadillac" />
+  <Car5 Name="IMPALA" Combined="25" Manufacturer="Chevrolet" />
+  <Car5 Name="IMPALA" Combined="22" Manufacturer="Chevrolet" />
+  <Car5 Name="IMPALA" Combined="22" Manufacturer="Chevrolet" />
+  <Car5 Name="IMPALA LIMITED" Combined="22" Manufacturer="Chevrolet" />
+  <Car5 Name="SS" Combined="16" Manufacturer="Chevrolet" />
+  <Car5 Name="SS" Combined="17" Manufacturer="Chevrolet" />
+  <Car5 Name="300" Combined="23" Manufacturer="Chrysler" />
+  <Car5 Name="300" Combined="23" Manufacturer="Chrysler" />
+  <Car5 Name="300" Combined="19" Manufacturer="Chrysler" />
+  <Car5 Name="300 AWD" Combined="21" Manufacturer="Chrysler" />
+  <Car5 Name="300 AWD" Combined="21" Manufacturer="Chrysler" />
+  <Car5 Name="Charger" Combined="23" Manufacturer="Dodge" />
+  <Car5 Name="Charger" Combined="23" Manufacturer="Dodge" />
+  <Car5 Name="Charger" Combined="19" Manufacturer="Dodge" />
+  <Car5 Name="Charger" Combined="18" Manufacturer="Dodge" />
+  <Car5 Name="Charger AWD" Combined="21" Manufacturer="Dodge" />
+  <Car5 Name="Charger AWD" Combined="21" Manufacturer="Dodge" />
+  <Car5 Name="Charger SRT8" Combined="16" Manufacturer="Dodge" />
+  <Car5 Name="Charger SRT8" Combined="18" Manufacturer="Dodge" />
+  <Car5 Name="C-MAX Hybrid FWD" Combined="40" Manufacturer="Ford" />
+  <Car5 Name="Special Service Police FWD" Combined="22" Manufacturer="Ford" />
+  <Car5 Name="TAURUS AWD" Combined="19" Manufacturer="Ford" />
+  <Car5 Name="TAURUS AWD" Combined="19" Manufacturer="Ford" />
+  <Car5 Name="TAURUS AWD FFV" Combined="19" Manufacturer="Ford" />
+  <Car5 Name="TAURUS FWD" Combined="23" Manufacturer="Ford" />
+  <Car5 Name="TAURUS FWD" Combined="21" Manufacturer="Ford" />
+  <Car5 Name="TAURUS FWD FFV" Combined="21" Manufacturer="Ford" />
+  <Car5 Name="Azera" Combined="23" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Azera Limited" Combined="22" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Equus" Combined="18" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Genesis AWD" Combined="19" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Genesis RWD" Combined="22" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Genesis RWD" Combined="18" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Sonata" Combined="32" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Sonata" Combined="26" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Sonata" Combined="30" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Sonata Limited" Combined="25" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Sonata SPORT/LIMITED" Combined="29" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="XJ" Combined="21" Manufacturer="Jaguar" />
+  <Car5 Name="XJ" Combined="18" Manufacturer="Jaguar" />
+  <Car5 Name="XJ AWD" Combined="20" Manufacturer="Jaguar" />
+  <Car5 Name="XJL" Combined="21" Manufacturer="Jaguar" />
+  <Car5 Name="XJL" Combined="18" Manufacturer="Jaguar" />
+  <Car5 Name="XJL AWD" Combined="20" Manufacturer="Jaguar" />
+  <Car5 Name="Cadenza" Combined="22" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Forte 5" Combined="24" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Forte 5" Combined="24" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Forte 5" Combined="28" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="K900" Combined="20" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="K900" Combined="18" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Optima" Combined="32" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Optima" Combined="25" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Optima" Combined="28" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Optima FE" Combined="26" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Optima FE" Combined="30" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="MKS AWD" Combined="19" Manufacturer="Lincoln" />
+  <Car5 Name="MKS AWD" Combined="19" Manufacturer="Lincoln" />
+  <Car5 Name="MKS FWD" Combined="20" Manufacturer="Lincoln" />
+  <Car5 Name="QUATTROPORTE GTS" Combined="17" Manufacturer="MASERATI" />
+  <Car5 Name="QUATTROPORTE S" Combined="18" Manufacturer="MASERATI" />
+  <Car5 Name="QUATTROPORTE SQ4 V6" Combined="18" Manufacturer="MASERATI" />
+  <Car5 Name="AMG S 63 4MATIC" Combined="18" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG S 65" Combined="15" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="Maybach S 600" Combined="15" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="S 550" Combined="20" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="S 550 4MATIC" Combined="19" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="S 600" Combined="16" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="Panamera" Combined="22" Manufacturer="Porsche" />
+  <Car5 Name="Panamera 4" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="Panamera 4S" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="Panamera 4S Executive" Combined="20" Manufacturer="Porsche" />
+  <Car5 Name="Panamera GTS" Combined="19" Manufacturer="Porsche" />
+  <Car5 Name="Panamera S" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="Panamera Turbo" Combined="18" Manufacturer="Porsche" />
+  <Car5 Name="Panamera Turbo Executive" Combined="18" Manufacturer="Porsche" />
+  <Car5 Name="Panamera Turbo S" Combined="18" Manufacturer="Porsche" />
+  <Car5 Name="Panamera Turbo S Executive" Combined="18" Manufacturer="Porsche" />
+  <Car5 Name="Ghost" Combined="15" Manufacturer="Rolls-Royce Motor Cars Limited" />
+  <Car5 Name="Ghost EWB" Combined="15" Manufacturer="Rolls-Royce Motor Cars Limited" />
+  <Car5 Name="Phantom" Combined="14" Manufacturer="Rolls-Royce Motor Cars Limited" />
+  <Car5 Name="Phantom EWB" Combined="14" Manufacturer="Rolls-Royce Motor Cars Limited" />
+  <Car5 Name="allroad quattro" Combined="24" Manufacturer="Audi" />
+  <Car5 Name="328d xDrive Sports Wagon" Combined="34" Manufacturer="BMW" />
+  <Car5 Name="328i xDrive Sports Wagon" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="SONIC 5" Combined="31" Manufacturer="Chevrolet" />
+  <Car5 Name="SONIC 5" Combined="33" Manufacturer="Chevrolet" />
+  <Car5 Name="SONIC 5" Combined="28" Manufacturer="Chevrolet" />
+  <Car5 Name="SONIC 5" Combined="30" Manufacturer="Chevrolet" />
+  <Car5 Name="500L" Combined="25" Manufacturer="FIAT" />
+  <Car5 Name="500L" Combined="28" Manufacturer="FIAT" />
+  <Car5 Name="FIT" Combined="36" Manufacturer="Honda" />
+  <Car5 Name="FIT" Combined="35" Manufacturer="Honda" />
+  <Car5 Name="FIT" Combined="32" Manufacturer="Honda" />
+  <Car5 Name="QX50" Combined="20" Manufacturer="INFINITI" />
+  <Car5 Name="QX50 AWD" Combined="20" Manufacturer="INFINITI" />
+  <Car5 Name="Soul" Combined="26" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Soul" Combined="26" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Soul" Combined="27" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Soul ECO dynamics" Combined="27" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="JUKE" Combined="30" Manufacturer="NISSAN" />
+  <Car5 Name="JUKE" Combined="30" Manufacturer="NISSAN" />
+  <Car5 Name="JUKE AWD" Combined="28" Manufacturer="NISSAN" />
+  <Car5 Name="JUKE NISMO RS" Combined="27" Manufacturer="NISSAN" />
+  <Car5 Name="JUKE NISMO RS AWD" Combined="27" Manufacturer="NISSAN" />
+  <Car5 Name="IMPREZA SPORT" Combined="31" Manufacturer="Subaru" />
+  <Car5 Name="IMPREZA SPORT" Combined="28" Manufacturer="Subaru" />
+  <Car5 Name="IMPREZA WAGON" Combined="31" Manufacturer="Subaru" />
+  <Car5 Name="IMPREZA WAGON" Combined="28" Manufacturer="Subaru" />
+  <Car5 Name="Golf SportWagen" Combined="29" Manufacturer="Volkswagen" />
+  <Car5 Name="Golf SportWagen" Combined="29" Manufacturer="Volkswagen" />
+  <Car5 Name="V60 AWD" Combined="25" Manufacturer="Volvo" />
+  <Car5 Name="V60 AWD" Combined="23" Manufacturer="Volvo" />
+  <Car5 Name="V60 AWD" Combined="21" Manufacturer="Volvo" />
+  <Car5 Name="V60 FWD" Combined="29" Manufacturer="Volvo" />
+  <Car5 Name="V60 Polestar AWD" Combined="21" Manufacturer="Volvo" />
+  <Car5 Name="V60CC AWD" Combined="23" Manufacturer="Volvo" />
+  <Car5 Name="AMG E 63 S 4MATIC (stat. wagon)" Combined="18" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG GLA 45 4MATIC" Combined="25" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="E 350 4Matic (Wagon)" Combined="22" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="GLA 250" Combined="29" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="MURANO AWD" Combined="24" Manufacturer="NISSAN" />
+  <Car5 Name="MURANO FWD" Combined="24" Manufacturer="NISSAN" />
+  <Car5 Name="MURANO Hybrid AWD" Combined="28" Manufacturer="NISSAN" />
+  <Car5 Name="MURANO Hybrid FWD" Combined="29" Manufacturer="NISSAN" />
+  <Car5 Name="PRIUS v" Combined="42" Manufacturer="TOYOTA" />
+  <Car5 Name="COLORADO 2WD" Combined="22" Manufacturer="Chevrolet" />
+  <Car5 Name="COLORADO 2WD" Combined="22" Manufacturer="Chevrolet" />
+  <Car5 Name="COLORADO 2WD" Combined="25" Manufacturer="Chevrolet" />
+  <Car5 Name="COLORADO 2WD" Combined="21" Manufacturer="Chevrolet" />
+  <Car5 Name="CANYON 2WD" Combined="22" Manufacturer="GMC" />
+  <Car5 Name="CANYON 2WD" Combined="22" Manufacturer="GMC" />
+  <Car5 Name="CANYON 2WD" Combined="25" Manufacturer="GMC" />
+  <Car5 Name="CANYON 2WD" Combined="21" Manufacturer="GMC" />
+  <Car5 Name="FRONTIER 2WD" Combined="19" Manufacturer="NISSAN" />
+  <Car5 Name="FRONTIER 2WD" Combined="21" Manufacturer="NISSAN" />
+  <Car5 Name="FRONTIER 2WD" Combined="18" Manufacturer="NISSAN" />
+  <Car5 Name="FRONTIER 2WD" Combined="19" Manufacturer="NISSAN" />
+  <Car5 Name="TACOMA 2WD" Combined="21" Manufacturer="TOYOTA" />
+  <Car5 Name="TACOMA 2WD" Combined="21" Manufacturer="TOYOTA" />
+  <Car5 Name="COLORADO 4WD" Combined="21" Manufacturer="Chevrolet" />
+  <Car5 Name="COLORADO 4WD" Combined="23" Manufacturer="Chevrolet" />
+  <Car5 Name="COLORADO 4WD" Combined="20" Manufacturer="Chevrolet" />
+  <Car5 Name="CANYON 4WD" Combined="21" Manufacturer="GMC" />
+  <Car5 Name="CANYON 4WD" Combined="23" Manufacturer="GMC" />
+  <Car5 Name="CANYON 4WD" Combined="20" Manufacturer="GMC" />
+  <Car5 Name="FRONTIER 4WD" Combined="17" Manufacturer="NISSAN" />
+  <Car5 Name="FRONTIER 4WD" Combined="18" Manufacturer="NISSAN" />
+  <Car5 Name="TACOMA 4WD" Combined="20" Manufacturer="TOYOTA" />
+  <Car5 Name="TACOMA 4WD" Combined="20" Manufacturer="TOYOTA" />
+  <Car5 Name="TACOMA 4WD" Combined="20" Manufacturer="TOYOTA" />
+  <Car5 Name="TACOMA 4WD" Combined="19" Manufacturer="TOYOTA" />
+  <Car5 Name="Tacoma 4WD Double Cab" Combined="18" Manufacturer="TOYOTA" />
+  <Car5 Name="C15 SILVERADO 2WD" Combined="20" Manufacturer="Chevrolet" />
+  <Car5 Name="C15 SILVERADO 2WD" Combined="19" Manufacturer="Chevrolet" />
+  <Car5 Name="C15 SILVERADO 2WD" Combined="19" Manufacturer="Chevrolet" />
+  <Car5 Name="C15 SILVERADO 2WD" Combined="20" Manufacturer="Chevrolet" />
+  <Car5 Name="C15 SILVERADO 2WD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="C15 SILVERADO 2WD" Combined="17" Manufacturer="Chevrolet" />
+  <Car5 Name="F150 2.7L 2WD GVWR&gt;6649 LBS PAYLOAD PACKAGE" Combined="21" Manufacturer="Ford" />
+  <Car5 Name="F150 2WD" Combined="22" Manufacturer="Ford" />
+  <Car5 Name="F150 2WD" Combined="20" Manufacturer="Ford" />
+  <Car5 Name="F150 2WD FFV" Combined="20" Manufacturer="Ford" />
+  <Car5 Name="F150 2WD FFV" Combined="18" Manufacturer="Ford" />
+  <Car5 Name="F150 3.5L 2WD GVWR&gt;7599 LBS PAYLOAD PACKAGE" Combined="18" Manufacturer="Ford" />
+  <Car5 Name="F150 5.0L 2WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE" Combined="16" Manufacturer="Ford" />
+  <Car5 Name="C15 SIERRA 2WD" Combined="20" Manufacturer="GMC" />
+  <Car5 Name="C15 SIERRA 2WD" Combined="19" Manufacturer="GMC" />
+  <Car5 Name="C15 SIERRA 2WD" Combined="19" Manufacturer="GMC" />
+  <Car5 Name="C15 SIERRA 2WD" Combined="20" Manufacturer="GMC" />
+  <Car5 Name="C15 SIERRA 2WD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="C15 SIERRA 2WD" Combined="17" Manufacturer="GMC" />
+  <Car5 Name="1500 4X2" Combined="23" Manufacturer="RAM" />
+  <Car5 Name="1500 4X2" Combined="20" Manufacturer="RAM" />
+  <Car5 Name="1500 4X2" Combined="16" Manufacturer="RAM" />
+  <Car5 Name="1500 4X2" Combined="17" Manufacturer="RAM" />
+  <Car5 Name="1500 HFE 4X2" Combined="24" Manufacturer="RAM" />
+  <Car5 Name="1500 HFE 4X2" Combined="21" Manufacturer="RAM" />
+  <Car5 Name="F150 Pickup 2WD" Combined="13" Manufacturer="Roush" />
+  <Car5 Name="TUNDRA 2WD" Combined="16" Manufacturer="TOYOTA" />
+  <Car5 Name="TUNDRA 2WD" Combined="15" Manufacturer="TOYOTA" />
+  <Car5 Name="TUNDRA 2WD FFV" Combined="15" Manufacturer="TOYOTA" />
+  <Car5 Name="K15 SILVERADO 4WD" Combined="19" Manufacturer="Chevrolet" />
+  <Car5 Name="K15 SILVERADO 4WD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="K15 SILVERADO 4WD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="K15 SILVERADO 4WD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="K15 SILVERADO 4WD" Combined="17" Manufacturer="Chevrolet" />
+  <Car5 Name="K15 SILVERADO 4WD" Combined="17" Manufacturer="Chevrolet" />
+  <Car5 Name="F150 2.7L 4WD GVWR&gt;6799 LBS PAYLOAD PACKAGE" Combined="19" Manufacturer="Ford" />
+  <Car5 Name="F150 3.5L 4WD GVWR&gt;7599 LBS PAYLOAD PACKAGE" Combined="17" Manufacturer="Ford" />
+  <Car5 Name="F150 4WD" Combined="20" Manufacturer="Ford" />
+  <Car5 Name="F150 4WD" Combined="18" Manufacturer="Ford" />
+  <Car5 Name="F150 4WD FFV" Combined="19" Manufacturer="Ford" />
+  <Car5 Name="F150 4WD FFV" Combined="17" Manufacturer="Ford" />
+  <Car5 Name="F150 5.0L 4WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE" Combined="16" Manufacturer="Ford" />
+  <Car5 Name="K15 SIERRA 4WD" Combined="19" Manufacturer="GMC" />
+  <Car5 Name="K15 SIERRA 4WD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="K15 SIERRA 4WD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="K15 SIERRA 4WD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="K15 SIERRA 4WD" Combined="17" Manufacturer="GMC" />
+  <Car5 Name="K15 SIERRA 4WD" Combined="17" Manufacturer="GMC" />
+  <Car5 Name="1500 4X4" Combined="22" Manufacturer="RAM" />
+  <Car5 Name="1500 4X4" Combined="19" Manufacturer="RAM" />
+  <Car5 Name="1500 4X4" Combined="15" Manufacturer="RAM" />
+  <Car5 Name="1500 4X4" Combined="17" Manufacturer="RAM" />
+  <Car5 Name="F150 Pickup 4WD" Combined="13" Manufacturer="Roush" />
+  <Car5 Name="TUNDRA 4WD" Combined="16" Manufacturer="TOYOTA" />
+  <Car5 Name="TUNDRA 4WD" Combined="15" Manufacturer="TOYOTA" />
+  <Car5 Name="TUNDRA 4WD FFV" Combined="15" Manufacturer="TOYOTA" />
+  <Car5 Name="G2500 EXPRESS 2WD PASS MDPV" Combined="13" Manufacturer="Chevrolet" />
+  <Car5 Name="G3500 EXPRESS 2WD PASS MDPV" Combined="12" Manufacturer="Chevrolet" />
+  <Car5 Name="Transit T150 Wagon" Combined="16" Manufacturer="Ford" />
+  <Car5 Name="Transit T150 Wagon FFV" Combined="16" Manufacturer="Ford" />
+  <Car5 Name="G2500 SAVANA 2WD PASS MDPV" Combined="13" Manufacturer="GMC" />
+  <Car5 Name="G3500 SAVANA 2WD PASS MDPV" Combined="12" Manufacturer="GMC" />
+  <Car5 Name="XTS HEARSE" Combined="17" Manufacturer="Cadillac" />
+  <Car5 Name="XTS LIMO" Combined="17" Manufacturer="Cadillac" />
+  <Car5 Name="City Express Cargo Van" Combined="25" Manufacturer="CHEVROLET" />
+  <Car5 Name="Transit Connect Van 2WD" Combined="25" Manufacturer="Ford" />
+  <Car5 Name="Transit Connect Van 2WD" Combined="23" Manufacturer="Ford" />
+  <Car5 Name="TRANSIT CONNECT VAN FFV" Combined="23" Manufacturer="Ford" />
+  <Car5 Name="TRANSIT CONNECT WAGON FFV" Combined="22" Manufacturer="Ford" />
+  <Car5 Name="TRANSIT CONNECT WAGON FWD" Combined="25" Manufacturer="Ford" />
+  <Car5 Name="TRANSIT CONNECT WAGON FWD" Combined="22" Manufacturer="Ford" />
+  <Car5 Name="TRANSIT CONNECT WAGON LWB FFV" Combined="22" Manufacturer="Ford" />
+  <Car5 Name="Transit Connect Wagon LWB FWD" Combined="22" Manufacturer="Ford" />
+  <Car5 Name="MKT LIVERY FWD" Combined="21" Manufacturer="Lincoln" />
+  <Car5 Name="Metris (Cargo Van)" Combined="22" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="Metris (Passenger Van)" Combined="22" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="NV200 Cargo Van" Combined="25" Manufacturer="NISSAN" />
+  <Car5 Name="NV200 NYC Taxi" Combined="24" Manufacturer="NISSAN" />
+  <Car5 Name="Promaster City" Combined="24" Manufacturer="RAM" />
+  <Car5 Name="MKT LIVERY AWD" Combined="18" Manufacturer="Lincoln" />
+  <Car5 Name="C15 SILVERADO 2WD CAB CHASSIS" Combined="17" Manufacturer="Chevrolet" />
+  <Car5 Name="COLORADO CAB CHASSIS 2WD" Combined="16" Manufacturer="Chevrolet" />
+  <Car5 Name="K15 SILVERADO 4WD CAB CHASSIS" Combined="17" Manufacturer="Chevrolet" />
+  <Car5 Name="C15 SIERRA 2WD CAB CHASSIS" Combined="17" Manufacturer="GMC" />
+  <Car5 Name="CANYON CAB CHASSIS 2WD" Combined="16" Manufacturer="GMC" />
+  <Car5 Name="K15 SIERRA 4WD CAB CHASSIS" Combined="17" Manufacturer="GMC" />
+  <Car5 Name="Town &amp; Country" Combined="20" Manufacturer="Chrysler" />
+  <Car5 Name="Town &amp; Country" Combined="20" Manufacturer="Chrysler" />
+  <Car5 Name="Grand Caravan" Combined="20" Manufacturer="Dodge" />
+  <Car5 Name="Grand Caravan" Combined="20" Manufacturer="Dodge" />
+  <Car5 Name="ODYSSEY 2WD" Combined="22" Manufacturer="Honda" />
+  <Car5 Name="Sedona" Combined="20" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Sedona SX" Combined="21" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Sedona SXL" Combined="19" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="QUEST" Combined="23" Manufacturer="NISSAN" />
+  <Car5 Name="SIENNA" Combined="21" Manufacturer="TOYOTA" />
+  <Car5 Name="SIENNA AWD" Combined="19" Manufacturer="TOYOTA" />
+  <Car5 Name="MDX 2WD" Combined="22" Manufacturer="Acura" />
+  <Car5 Name="MDX 2WD" Combined="23" Manufacturer="Acura" />
+  <Car5 Name="RDX 2WD" Combined="23" Manufacturer="Acura" />
+  <Car5 Name="X3 sDrive 28i" Combined="24" Manufacturer="BMW" />
+  <Car5 Name="ENCORE" Combined="30" Manufacturer="Buick" />
+  <Car5 Name="ENCORE" Combined="28" Manufacturer="Buick" />
+  <Car5 Name="EQUINOX FWD" Combined="26" Manufacturer="Chevrolet" />
+  <Car5 Name="EQUINOX FWD" Combined="26" Manufacturer="Chevrolet" />
+  <Car5 Name="EQUINOX FWD" Combined="20" Manufacturer="Chevrolet" />
+  <Car5 Name="TRAX" Combined="29" Manufacturer="Chevrolet" />
+  <Car5 Name="Journey" Combined="21" Manufacturer="Dodge" />
+  <Car5 Name="Journey" Combined="19" Manufacturer="Dodge" />
+  <Car5 Name="500X" Combined="28" Manufacturer="FIAT" />
+  <Car5 Name="500X" Combined="25" Manufacturer="FIAT" />
+  <Car5 Name="EDGE FWD" Combined="24" Manufacturer="Ford" />
+  <Car5 Name="EDGE FWD" Combined="24" Manufacturer="Ford" />
+  <Car5 Name="EDGE FWD" Combined="21" Manufacturer="Ford" />
+  <Car5 Name="ESCAPE FWD" Combined="26" Manufacturer="Ford" />
+  <Car5 Name="ESCAPE FWD" Combined="25" Manufacturer="Ford" />
+  <Car5 Name="ESCAPE FWD" Combined="25" Manufacturer="Ford" />
+  <Car5 Name="TERRAIN FWD" Combined="26" Manufacturer="GMC" />
+  <Car5 Name="TERRAIN FWD" Combined="26" Manufacturer="GMC" />
+  <Car5 Name="TERRAIN FWD" Combined="20" Manufacturer="GMC" />
+  <Car5 Name="CR-V 2WD" Combined="29" Manufacturer="Honda" />
+  <Car5 Name="HR-V 2WD" Combined="31" Manufacturer="Honda" />
+  <Car5 Name="HR-V 2WD" Combined="31" Manufacturer="Honda" />
+  <Car5 Name="HR-V 2WD" Combined="28" Manufacturer="Honda" />
+  <Car5 Name="PILOT 2WD" Combined="22" Manufacturer="Honda" />
+  <Car5 Name="PILOT 2WD" Combined="23" Manufacturer="Honda" />
+  <Car5 Name="Santa Fe FWD" Combined="21" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Santa Fe Sport FWD" Combined="22" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Santa Fe Sport FWD" Combined="23" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Santa Fe Sport ULTIMATE FWD" Combined="22" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Santa Fe Ultimate FWD" Combined="20" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Tucson Eco FWD" Combined="29" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Tucson FWD" Combined="27" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Tucson FWD" Combined="26" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="QX60 FWD" Combined="23" Manufacturer="INFINITI" />
+  <Car5 Name="QX70 RWD" Combined="19" Manufacturer="INFINITI" />
+  <Car5 Name="Cherokee FWD" Combined="25" Manufacturer="Jeep" />
+  <Car5 Name="Cherokee FWD" Combined="25" Manufacturer="Jeep" />
+  <Car5 Name="Cherokee FWD" Combined="24" Manufacturer="Jeep" />
+  <Car5 Name="Compass FWD" Combined="24" Manufacturer="Jeep" />
+  <Car5 Name="Compass FWD" Combined="26" Manufacturer="Jeep" />
+  <Car5 Name="Compass FWD" Combined="23" Manufacturer="Jeep" />
+  <Car5 Name="Compass FWD" Combined="25" Manufacturer="Jeep" />
+  <Car5 Name="Patriot FWD" Combined="24" Manufacturer="Jeep" />
+  <Car5 Name="Patriot FWD" Combined="26" Manufacturer="Jeep" />
+  <Car5 Name="Patriot FWD" Combined="23" Manufacturer="Jeep" />
+  <Car5 Name="Patriot FWD" Combined="25" Manufacturer="Jeep" />
+  <Car5 Name="Renegade 4x2" Combined="27" Manufacturer="Jeep" />
+  <Car5 Name="Renegade 4x2" Combined="25" Manufacturer="Jeep" />
+  <Car5 Name="Sorento FWD" Combined="23" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Sorento FWD" Combined="24" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Sorento FWD" Combined="21" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Sportage FWD" Combined="24" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Sportage SX FWD" Combined="22" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="NX 200t" Combined="25" Manufacturer="LEXUS" />
+  <Car5 Name="NX 300h" Combined="33" Manufacturer="LEXUS" />
+  <Car5 Name="RX 350" Combined="23" Manufacturer="LEXUS" />
+  <Car5 Name="RX 450h" Combined="30" Manufacturer="LEXUS" />
+  <Car5 Name="MKC  FWD" Combined="23" Manufacturer="Lincoln" />
+  <Car5 Name="MKX FWD" Combined="21" Manufacturer="Lincoln" />
+  <Car5 Name="MKX FWD" Combined="20" Manufacturer="Lincoln" />
+  <Car5 Name="CX-5 2WD" Combined="29" Manufacturer="MAZDA" />
+  <Car5 Name="CX-5 2WD" Combined="29" Manufacturer="MAZDA" />
+  <Car5 Name="GLC 300" Combined="24" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="OUTLANDER 2WD" Combined="27" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="OUTLANDER SPORT 2WD" Combined="27" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="OUTLANDER SPORT 2WD" Combined="25" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="OUTLANDER SPORT 2WD" Combined="25" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="PATHFINDER 2WD" Combined="23" Manufacturer="NISSAN" />
+  <Car5 Name="ROGUE FWD" Combined="28" Manufacturer="NISSAN" />
+  <Car5 Name="HIGHLANDER" Combined="22" Manufacturer="TOYOTA" />
+  <Car5 Name="HIGHLANDER" Combined="21" Manufacturer="TOYOTA" />
+  <Car5 Name="RAV4" Combined="26" Manufacturer="TOYOTA" />
+  <Car5 Name="RAV4 LE/XLE" Combined="26" Manufacturer="TOYOTA" />
+  <Car5 Name="Tiguan" Combined="23" Manufacturer="Volkswagen" />
+  <Car5 Name="XC60 FWD" Combined="26" Manufacturer="Volvo" />
+  <Car5 Name="XC60 FWD" Combined="24" Manufacturer="Volvo" />
+  <Car5 Name="XC70 FWD" Combined="26" Manufacturer="Volvo" />
+  <Car5 Name="MDX 4WD" Combined="22" Manufacturer="Acura" />
+  <Car5 Name="MDX 4WD" Combined="21" Manufacturer="Acura" />
+  <Car5 Name="RDX 4WD" Combined="22" Manufacturer="Acura" />
+  <Car5 Name="Q5" Combined="23" Manufacturer="Audi" />
+  <Car5 Name="Q5" Combined="27" Manufacturer="Audi" />
+  <Car5 Name="Q5" Combined="21" Manufacturer="Audi" />
+  <Car5 Name="Q5 Hybrid" Combined="26" Manufacturer="Audi" />
+  <Car5 Name="SQ5" Combined="19" Manufacturer="Audi" />
+  <Car5 Name="X3 xDrive28d" Combined="30" Manufacturer="BMW" />
+  <Car5 Name="X3 xDrive28i" Combined="24" Manufacturer="BMW" />
+  <Car5 Name="X3 xDrive35i" Combined="22" Manufacturer="BMW" />
+  <Car5 Name="X4 M40i" Combined="21" Manufacturer="BMW" />
+  <Car5 Name="X4 xDrive28i" Combined="23" Manufacturer="BMW" />
+  <Car5 Name="X4 xDrive35i" Combined="22" Manufacturer="BMW" />
+  <Car5 Name="ENCORE AWD" Combined="29" Manufacturer="Buick" />
+  <Car5 Name="ENCORE AWD" Combined="26" Manufacturer="Buick" />
+  <Car5 Name="ENVISION AWD" Combined="22" Manufacturer="Buick" />
+  <Car5 Name="EQUINOX AWD" Combined="23" Manufacturer="Chevrolet" />
+  <Car5 Name="EQUINOX AWD" Combined="23" Manufacturer="Chevrolet" />
+  <Car5 Name="EQUINOX AWD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="TRAX AWD" Combined="27" Manufacturer="Chevrolet" />
+  <Car5 Name="Journey AWD" Combined="19" Manufacturer="Dodge" />
+  <Car5 Name="500X AWD" Combined="24" Manufacturer="FIAT" />
+  <Car5 Name="EDGE AWD" Combined="23" Manufacturer="Ford" />
+  <Car5 Name="EDGE AWD" Combined="20" Manufacturer="Ford" />
+  <Car5 Name="EDGE AWD" Combined="20" Manufacturer="Ford" />
+  <Car5 Name="ESCAPE AWD" Combined="25" Manufacturer="Ford" />
+  <Car5 Name="ESCAPE AWD" Combined="23" Manufacturer="Ford" />
+  <Car5 Name="TERRAIN AWD" Combined="23" Manufacturer="GMC" />
+  <Car5 Name="TERRAIN AWD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="CR-V 4WD" Combined="27" Manufacturer="Honda" />
+  <Car5 Name="HR-V 4WD" Combined="29" Manufacturer="Honda" />
+  <Car5 Name="HR-V 4WD" Combined="29" Manufacturer="Honda" />
+  <Car5 Name="PILOT 4WD" Combined="21" Manufacturer="Honda" />
+  <Car5 Name="PILOT 4WD" Combined="22" Manufacturer="Honda" />
+  <Car5 Name="Santa Fe AWD" Combined="20" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Santa Fe Sport AWD" Combined="21" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Santa Fe Sport AWD" Combined="21" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Santa Fe Ultimate AWD" Combined="19" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Tucson AWD" Combined="26" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Tucson AWD" Combined="23" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="Tucson Eco AWD" Combined="27" Manufacturer="HYUNDAI MOTOR COMPANY" />
+  <Car5 Name="QX60 AWD" Combined="22" Manufacturer="INFINITI" />
+  <Car5 Name="QX70 AWD" Combined="18" Manufacturer="INFINITI" />
+  <Car5 Name="Cherokee 4X4" Combined="24" Manufacturer="Jeep" />
+  <Car5 Name="Cherokee 4X4" Combined="24" Manufacturer="Jeep" />
+  <Car5 Name="Cherokee 4X4" Combined="23" Manufacturer="Jeep" />
+  <Car5 Name="Cherokee 4x4 Active Drive II" Combined="23" Manufacturer="Jeep" />
+  <Car5 Name="Cherokee 4x4 Active Drive II" Combined="22" Manufacturer="Jeep" />
+  <Car5 Name="Cherokee Trailhawk 4X4" Combined="22" Manufacturer="Jeep" />
+  <Car5 Name="Cherokee Trailhawk 4X4" Combined="22" Manufacturer="Jeep" />
+  <Car5 Name="Compass 4X4" Combined="22" Manufacturer="Jeep" />
+  <Car5 Name="Compass 4X4" Combined="21" Manufacturer="Jeep" />
+  <Car5 Name="Compass 4X4" Combined="24" Manufacturer="Jeep" />
+  <Car5 Name="Patriot 4X4" Combined="22" Manufacturer="Jeep" />
+  <Car5 Name="Patriot 4X4" Combined="21" Manufacturer="Jeep" />
+  <Car5 Name="Patriot 4X4" Combined="24" Manufacturer="Jeep" />
+  <Car5 Name="Renegade 4x4" Combined="27" Manufacturer="Jeep" />
+  <Car5 Name="Renegade 4x4" Combined="24" Manufacturer="Jeep" />
+  <Car5 Name="Wrangler 4X4" Combined="18" Manufacturer="Jeep" />
+  <Car5 Name="Wrangler 4X4" Combined="18" Manufacturer="Jeep" />
+  <Car5 Name="Wrangler Unlimited 4X4" Combined="18" Manufacturer="Jeep" />
+  <Car5 Name="Wrangler Unlimited 4X4" Combined="18" Manufacturer="Jeep" />
+  <Car5 Name="Sorento AWD" Combined="22" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Sorento AWD" Combined="23" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Sorento AWD" Combined="19" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Sorento AWD FE" Combined="21" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Sportage AWD" Combined="22" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Sportage SX AWD" Combined="21" Manufacturer="KIA MOTORS CORPORATION" />
+  <Car5 Name="Discovery Sport" Combined="22" Manufacturer="Land Rover" />
+  <Car5 Name="Range Rover Evoque" Combined="24" Manufacturer="Land Rover" />
+  <Car5 Name="NX 200t AWD" Combined="24" Manufacturer="LEXUS" />
+  <Car5 Name="NX 200t AWD F SPORT" Combined="24" Manufacturer="LEXUS" />
+  <Car5 Name="NX 300h AWD" Combined="32" Manufacturer="LEXUS" />
+  <Car5 Name="RX 350 AWD" Combined="22" Manufacturer="LEXUS" />
+  <Car5 Name="MKC  AWD" Combined="22" Manufacturer="Lincoln" />
+  <Car5 Name="MKC  AWD" Combined="21" Manufacturer="Lincoln" />
+  <Car5 Name="MKX AWD" Combined="19" Manufacturer="Lincoln" />
+  <Car5 Name="MKX AWD" Combined="19" Manufacturer="Lincoln" />
+  <Car5 Name="CX-5 4WD" Combined="26" Manufacturer="MAZDA" />
+  <Car5 Name="GLA 250 4MATIC" Combined="27" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="GLA 250 4MATIC" Combined="27" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="GLC 300 4MATIC" Combined="24" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="OUTLANDER 4WD" Combined="26" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="OUTLANDER 4WD" Combined="23" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="OUTLANDER SPORT 4WD" Combined="26" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="OUTLANDER SPORT 4WD" Combined="24" Manufacturer="Mitsubishi Motors Corporation" />
+  <Car5 Name="PATHFINDER 4WD" Combined="22" Manufacturer="NISSAN" />
+  <Car5 Name="PATHFINDER 4WD PLATINUM" Combined="21" Manufacturer="NISSAN" />
+  <Car5 Name="ROGUE AWD" Combined="28" Manufacturer="NISSAN" />
+  <Car5 Name="Macan S" Combined="19" Manufacturer="Porsche" />
+  <Car5 Name="Macan Turbo" Combined="19" Manufacturer="Porsche" />
+  <Car5 Name="CROSSTREK" Combined="29" Manufacturer="Subaru" />
+  <Car5 Name="CROSSTREK" Combined="26" Manufacturer="Subaru" />
+  <Car5 Name="CROSSTREK HYBRID" Combined="31" Manufacturer="Subaru" />
+  <Car5 Name="FORESTER" Combined="25" Manufacturer="Subaru" />
+  <Car5 Name="FORESTER" Combined="27" Manufacturer="Subaru" />
+  <Car5 Name="FORESTER" Combined="25" Manufacturer="Subaru" />
+  <Car5 Name="OUTBACK" Combined="28" Manufacturer="Subaru" />
+  <Car5 Name="OUTBACK" Combined="22" Manufacturer="Subaru" />
+  <Car5 Name="RAV4 AWD" Combined="25" Manufacturer="TOYOTA" />
+  <Car5 Name="RAV4 HYBRID AWD" Combined="33" Manufacturer="TOYOTA" />
+  <Car5 Name="RAV4 Limited AWD/SE AWD" Combined="25" Manufacturer="TOYOTA" />
+  <Car5 Name="Tiguan 4Motion" Combined="23" Manufacturer="Volkswagen" />
+  <Car5 Name="XC60 AWD" Combined="22" Manufacturer="Volvo" />
+  <Car5 Name="XC60 AWD" Combined="22" Manufacturer="Volvo" />
+  <Car5 Name="XC60 AWD" Combined="20" Manufacturer="Volvo" />
+  <Car5 Name="XC70 AWD" Combined="22" Manufacturer="Volvo" />
+  <Car5 Name="X5 sDrive35i" Combined="21" Manufacturer="BMW" />
+  <Car5 Name="X6 sDrive35i" Combined="21" Manufacturer="BMW" />
+  <Car5 Name="ENCLAVE FWD" Combined="18" Manufacturer="Buick" />
+  <Car5 Name="ESCALADE 2WD" Combined="17" Manufacturer="Cadillac" />
+  <Car5 Name="SRX" Combined="19" Manufacturer="Cadillac" />
+  <Car5 Name="C1500 SUBURBAN 2WD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="C1500 SUBURBAN 2WD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="C1500 TAHOE 2WD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="C1500 TAHOE 2WD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="TRAVERSE FWD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="Durango RWD" Combined="22" Manufacturer="Dodge" />
+  <Car5 Name="Durango RWD" Combined="17" Manufacturer="Dodge" />
+  <Car5 Name="Expedition 2WD" Combined="18" Manufacturer="Ford" />
+  <Car5 Name="Expedition EL 2WD" Combined="17" Manufacturer="Ford" />
+  <Car5 Name="EXPLORER FFV 2WD" Combined="20" Manufacturer="Ford" />
+  <Car5 Name="EXPLORER FWD" Combined="22" Manufacturer="Ford" />
+  <Car5 Name="EXPLORER FWD" Combined="20" Manufacturer="Ford" />
+  <Car5 Name="Flex FWD" Combined="19" Manufacturer="Ford" />
+  <Car5 Name="ACADIA FWD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="C1500 YUKON 2WD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="C1500 YUKON 2WD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="C1500 YUKON 2WD" Combined="17" Manufacturer="GMC" />
+  <Car5 Name="C1500 YUKON XL 2WD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="C1500 YUKON XL 2WD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="C1500 YUKON XL 2WD" Combined="17" Manufacturer="GMC" />
+  <Car5 Name="QX60 Hybrid FWD" Combined="26" Manufacturer="INFINITI" />
+  <Car5 Name="QX80 2WD" Combined="16" Manufacturer="INFINITI" />
+  <Car5 Name="Grand Cherokee 4X2" Combined="25" Manufacturer="Jeep" />
+  <Car5 Name="Grand Cherokee 4X2" Combined="22" Manufacturer="Jeep" />
+  <Car5 Name="MKT FWD" Combined="19" Manufacturer="Lincoln" />
+  <Car5 Name="Navigator 2WD" Combined="18" Manufacturer="Lincoln" />
+  <Car5 Name="Navigator L 2WD" Combined="17" Manufacturer="Lincoln" />
+  <Car5 Name="GLE 350" Combined="20" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="4RUNNER 2WD" Combined="19" Manufacturer="TOYOTA" />
+  <Car5 Name="SEQUOIA 2WD" Combined="15" Manufacturer="TOYOTA" />
+  <Car5 Name="XC90 FWD" Combined="24" Manufacturer="Volvo" />
+  <Car5 Name="X5 M" Combined="16" Manufacturer="BMW" />
+  <Car5 Name="X5 xDrive 35d" Combined="26" Manufacturer="BMW" />
+  <Car5 Name="X5 xDrive35i" Combined="20" Manufacturer="BMW" />
+  <Car5 Name="X5 xDrive50i" Combined="17" Manufacturer="BMW" />
+  <Car5 Name="X6 M" Combined="16" Manufacturer="BMW" />
+  <Car5 Name="X6 xDrive35i" Combined="20" Manufacturer="BMW" />
+  <Car5 Name="X6 xDrive50i" Combined="17" Manufacturer="BMW" />
+  <Car5 Name="ENCLAVE AWD" Combined="17" Manufacturer="Buick" />
+  <Car5 Name="ESCALADE 4WD" Combined="17" Manufacturer="Cadillac" />
+  <Car5 Name="SRX AWD" Combined="18" Manufacturer="Cadillac" />
+  <Car5 Name="K1500 SUBURBAN 4WD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="K1500 SUBURBAN 4WD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="K1500 TAHOE 4WD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="K1500 TAHOE 4WD" Combined="18" Manufacturer="Chevrolet" />
+  <Car5 Name="TRAVERSE AWD" Combined="17" Manufacturer="Chevrolet" />
+  <Car5 Name="Durango AWD" Combined="21" Manufacturer="Dodge" />
+  <Car5 Name="Durango AWD" Combined="17" Manufacturer="Dodge" />
+  <Car5 Name="Expedition 4WD" Combined="17" Manufacturer="Ford" />
+  <Car5 Name="Expedition EL 4WD" Combined="16" Manufacturer="Ford" />
+  <Car5 Name="EXPLORER AWD" Combined="21" Manufacturer="Ford" />
+  <Car5 Name="EXPLORER AWD" Combined="18" Manufacturer="Ford" />
+  <Car5 Name="EXPLORER AWD" Combined="19" Manufacturer="Ford" />
+  <Car5 Name="EXPLORER FFV AWD" Combined="19" Manufacturer="Ford" />
+  <Car5 Name="FLEX AWD" Combined="18" Manufacturer="Ford" />
+  <Car5 Name="FLEX AWD" Combined="17" Manufacturer="Ford" />
+  <Car5 Name="ACADIA AWD" Combined="17" Manufacturer="GMC" />
+  <Car5 Name="K1500 YUKON 4WD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="K1500 YUKON 4WD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="K1500 YUKON 4WD" Combined="17" Manufacturer="GMC" />
+  <Car5 Name="K1500 YUKON XL 4WD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="K1500 YUKON XL 4WD" Combined="18" Manufacturer="GMC" />
+  <Car5 Name="K1500 YUKON XL 4WD" Combined="16" Manufacturer="GMC" />
+  <Car5 Name="QX60 Hybrid AWD" Combined="26" Manufacturer="INFINITI" />
+  <Car5 Name="QX80 4WD" Combined="15" Manufacturer="INFINITI" />
+  <Car5 Name="Grand Cherokee 4X4" Combined="24" Manufacturer="Jeep" />
+  <Car5 Name="Grand Cherokee 4X4" Combined="21" Manufacturer="Jeep" />
+  <Car5 Name="Grand Cherokee 4X4" Combined="17" Manufacturer="Jeep" />
+  <Car5 Name="Grand Cherokee SRT8 4x4" Combined="15" Manufacturer="Jeep" />
+  <Car5 Name="LR4" Combined="16" Manufacturer="Land Rover" />
+  <Car5 Name="Range Rover" Combined="19" Manufacturer="Land Rover" />
+  <Car5 Name="Range Rover" Combined="16" Manufacturer="Land Rover" />
+  <Car5 Name="Range Rover LWB" Combined="19" Manufacturer="Land Rover" />
+  <Car5 Name="Range Rover LWB" Combined="16" Manufacturer="Land Rover" />
+  <Car5 Name="Range Rover Sport" Combined="19" Manufacturer="Land Rover" />
+  <Car5 Name="Range Rover Sport" Combined="16" Manufacturer="Land Rover" />
+  <Car5 Name="Range Rover Sport TDV6" Combined="25" Manufacturer="Land Rover" />
+  <Car5 Name="Range Rover TDV6" Combined="25" Manufacturer="Land Rover" />
+  <Car5 Name="GX 460" Combined="17" Manufacturer="LEXUS" />
+  <Car5 Name="LX 570" Combined="15" Manufacturer="LEXUS" />
+  <Car5 Name="RX 450h AWD" Combined="30" Manufacturer="LEXUS" />
+  <Car5 Name="MKT AWD" Combined="17" Manufacturer="Lincoln" />
+  <Car5 Name="Navigator 4WD" Combined="17" Manufacturer="Lincoln" />
+  <Car5 Name="Navigator L 4WD" Combined="16" Manufacturer="Lincoln" />
+  <Car5 Name="AMG G 63" Combined="13" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG G65" Combined="12" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG GL 63" Combined="14" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG GLE 63" Combined="15" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG GLE 63 S" Combined="15" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="AMG GLE 63 S (coupe)" Combined="15" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="G 550" Combined="13" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="GL 350 BLUETEC 4MATIC" Combined="22" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="GL 450 4MATIC" Combined="19" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="GL 550 4MATIC" Combined="15" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="GLE 300 d 4MATIC" Combined="24" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="GLE 350 4MATIC" Combined="19" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="GLE 350 4MATIC" Combined="19" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="GLE 350 d 4MATIC" Combined="26" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="GLE 400 4MATIC" Combined="20" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="GLE 450 AMG (coupe)" Combined="20" Manufacturer="Mercedes-Benz" />
+  <Car5 Name="Cayenne" Combined="21" Manufacturer="Porsche" />
+  <Car5 Name="Cayenne Diesel" Combined="23" Manufacturer="Porsche" />
+  <Car5 Name="Cayenne GTS" Combined="19" Manufacturer="Porsche" />
+  <Car5 Name="Cayenne S" Combined="20" Manufacturer="Porsche" />
+  <Car5 Name="Cayenne Turbo" Combined="17" Manufacturer="Porsche" />
+  <Car5 Name="Cayenne Turbo S" Combined="17" Manufacturer="Porsche" />
+  <Car5 Name="4RUNNER 4WD" Combined="18" Manufacturer="TOYOTA" />
+  <Car5 Name="4RUNNER 4WD" Combined="18" Manufacturer="TOYOTA" />
+  <Car5 Name="HIGHLANDER AWD" Combined="20" Manufacturer="TOYOTA" />
+  <Car5 Name="HIGHLANDER HYBRID AWD" Combined="28" Manufacturer="TOYOTA" />
+  <Car5 Name="HIGHLANDER HYBRID AWD LE Plus" Combined="28" Manufacturer="TOYOTA" />
+  <Car5 Name="LAND CRUISER WAGON 4WD" Combined="15" Manufacturer="TOYOTA" />
+  <Car5 Name="SEQUOIA 4WD" Combined="14" Manufacturer="TOYOTA" />
+  <Car5 Name="SEQUOIA 4WD FFV" Combined="14" Manufacturer="TOYOTA" />
+  <Car5 Name="Touareg" Combined="24" Manufacturer="Volkswagen" />
+  <Car5 Name="Touareg" Combined="19" Manufacturer="Volkswagen" />
+  <Car5 Name="XC90 AWD" Combined="22" Manufacturer="Volvo" />
+  <Car5 Name="XC90 AWD" Combined="23" Manufacturer="Volvo" />
+</Cars>
